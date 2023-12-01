@@ -436,7 +436,7 @@
             }
         }
         & .table{
-            width: 120%;
+            width: 100%;
             margin-right: 20px;
         }
     }
@@ -486,6 +486,6 @@
 }
 @media (max-width: 320px){
     .containservice .service .categories div {
-        width: 30%;
+        width: 40%;
     }
 } 
